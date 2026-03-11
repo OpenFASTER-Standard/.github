@@ -1,6 +1,6 @@
 # OpenFASTER
 
-**Vendor-independent standard for EU withholding tax and dividend reporting data exchange.**
+**Vendor-independent, interoperable standard for EU withholding tax and dividend reporting data exchange.**
 
 ## What is OpenFASTER?
 
