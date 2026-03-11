@@ -8,7 +8,7 @@
 
 ## What is OpenFASTER?
 
-OpenFASTER defines an interoperable protocol and data formats that Central Financial Intermediaries (CFIs) use to exchange data and events for indirect reporting for MiKaDiv and FASTER — in both pull and push modes. The standard is based on [BIRD (Bank Integrated Reporting Dictionary)](https://bird.ecb.europa.eu/) by the ECB and includes end-to-end encryption specifications.
+OpenFASTER defines an interoperable protocol and data formats that Central Financial Intermediaries (CFIs) and Non-CFIs can use to exchange data and events for indirect reporting for MiKaDiv and FASTER — in both pull and push modes. The standard is based on [BIRD (Bank Integrated Reporting Dictionary)](https://bird.ecb.europa.eu/) by the ECB and includes end-to-end encryption specifications.
 
 ## Key Dates
 
