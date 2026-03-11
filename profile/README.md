@@ -16,7 +16,7 @@ The scope is **purely operational**: building the technical infrastructure that 
 
 - **BIRD** — Based on the [Bank Integrated Reporting Dictionary](https://bird.ecb.europa.eu/) by the ECB
 - **Encryption** — End-to-end encryption for all data transmitted between CFIs
-- **Reference implementation** — Divizend Compliance provides one implementation
+- **Reference implementation** — Commercial vendors can provide implementations
 
 ## Regulatory Context
 
