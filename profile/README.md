@@ -10,3 +10,11 @@ OpenFASTER defines an interoperable protocol and data formats that Central Finan
 
 - **January 1, 2027** — Standardized dividend reporting via MiKaDiv becomes mandatory
 - **January 1, 2030** — Full regulatory reporting under FASTER becomes mandatory
+
+## Repositories
+
+- [spec](https://github.com/openfaster-standard/spec) — Specification and protocol definitions
+
+## License
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
