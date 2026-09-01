@@ -49,7 +49,10 @@ The end-to-end workflow supported by implementations of OpenFASTER:
 ## Repositories
 
 - [spec](https://github.com/openfaster-standard/spec) — Specification and protocol definitions, hosted at [https://openfaster.org](https://openfaster.org)
+- [institutional-ontology](https://github.com/OpenFASTER-Standard/institutional-ontology) — OWL ontology of formal/administrative concepts, aligning MiKaDiv and KaFE field semantics
+- [riptide](https://github.com/OpenFASTER-Standard/riptide) — Elixir/Phoenix reference implementation of StreamLD, an event-driven Solid/LDP-compatible pod server
 
 ## License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+
